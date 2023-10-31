@@ -2,7 +2,7 @@
 
 This repository contains all the necessary code to reproduce the analysis and figures of the following manuscript:
 
-**Bender, Voytek, & Schaworonkow: [Resting-state is not enough: alpha and mu rhythms change shape across development, but lack diagnostic sensitivity](). *medRxiv* (2023). doi: XXX**.
+- Bender, Voytek, & Schaworonkow: Resting-state is not enough: alpha and mu rhythms change shape across development, but lack diagnostic sensitivity]. *bioRxiv* (2023). doi: https://doi.org/10.1101/2023.10.13.562301.
 
 ## Dataset
 
